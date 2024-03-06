@@ -51,4 +51,5 @@ In a Terminal try typing in the following commands in order, and see if you can 
  pwd
  cd ~
  pwd
+ cd ..
 ```
